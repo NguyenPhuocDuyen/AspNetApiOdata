@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\LabOData\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStoreWebClient\\ODataBookStoreWebClient.csproj": {}
+    "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\Odata\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStoreWebClient\\ODataBookStoreWebClient.csproj": {}
   },
   "projects": {
-    "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\LabOData\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStoreWebClient\\ODataBookStoreWebClient.csproj": {
+    "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\Odata\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStoreWebClient\\ODataBookStoreWebClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\LabOData\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStoreWebClient\\ODataBookStoreWebClient.csproj",
+        "projectUniqueName": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\Odata\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStoreWebClient\\ODataBookStoreWebClient.csproj",
         "projectName": "ODataBookStoreWebClient",
-        "projectPath": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\LabOData\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStoreWebClient\\ODataBookStoreWebClient.csproj",
+        "projectPath": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\Odata\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStoreWebClient\\ODataBookStoreWebClient.csproj",
         "packagesPath": "C:\\Users\\duyen\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\LabOData\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStoreWebClient\\obj\\",
+        "outputPath": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\Odata\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStoreWebClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\duyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\LabOData\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStore\\ODataBookStore.csproj": {
-                "projectPath": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\LabOData\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStore\\ODataBookStore.csproj"
+              "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\Odata\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStore\\ODataBookStore.csproj": {
+                "projectPath": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\Odata\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStore\\ODataBookStore.csproj"
               }
             }
           }
@@ -72,18 +72,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\LabOData\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStore\\ODataBookStore.csproj": {
+    "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\Odata\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStore\\ODataBookStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\LabOData\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStore\\ODataBookStore.csproj",
+        "projectUniqueName": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\Odata\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStore\\ODataBookStore.csproj",
         "projectName": "ODataBookStore",
-        "projectPath": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\LabOData\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStore\\ODataBookStore.csproj",
+        "projectPath": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\Odata\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStore\\ODataBookStore.csproj",
         "packagesPath": "C:\\Users\\duyen\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\LabOData\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStore\\obj\\",
+        "outputPath": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\Odata\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\duyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -144,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

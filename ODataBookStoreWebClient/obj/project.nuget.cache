@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OyE+bgFLX2/xidMYJi1wWYNbPoC44CCoh/jRvJPCTrD8Pb+SKsjMt18MK3G/F9883z8RT5a7hVWmGdEfWbdESw==",
+  "dgSpecHash": "bsXrpsyAvq89WzJr7Cz25shkHAp3qlMxLKIHIihruBSPK8jU4uuLIwEZqys0kKAwL5PlWxWGtoZNtDUaMUBLqA==",
   "success": true,
-  "projectFilePath": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\LabOData\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStoreWebClient\\ODataBookStoreWebClient.csproj",
+  "projectFilePath": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\Odata\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStoreWebClient\\ODataBookStoreWebClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duyen\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\duyen\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

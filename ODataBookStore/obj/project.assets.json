@@ -1130,11 +1130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\LabOData\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStore\\ODataBookStore.csproj",
+      "projectUniqueName": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\Odata\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStore\\ODataBookStore.csproj",
       "projectName": "ODataBookStore",
-      "projectPath": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\LabOData\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStore\\ODataBookStore.csproj",
+      "projectPath": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\Odata\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStore\\ODataBookStore.csproj",
       "packagesPath": "C:\\Users\\duyen\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\LabOData\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStore\\obj\\",
+      "outputPath": "D:\\WorkPlace\\C#_NangCao\\PRN221_C#_Ky_8\\Lab\\Odata\\Lab01_BookStoreOData8_DuyenNPCE150850\\ODataBookStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\duyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1195,7 +1195,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
